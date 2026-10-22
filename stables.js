@@ -77,3 +77,5 @@ let visitorMessege = "Hello Everyone" + "." + " Welcome to our " + stableName + 
 let lateFeeMessege = "We wanted to inform you that " + dean.name + "'s payment is late" + "." + " There will be a late fee of $" + dean.lateFee + " on your account" + "." + " feel free to reach out if you have any questions" + "." ;
 console.log(visitorMessege);
 console.log(lateFeeMessege);
+
+blabla 
